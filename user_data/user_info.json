@@ -1,0 +1,29 @@
+{
+    "username": "用户",
+    "created_at": "2025-04-07 12:22:29",
+    "last_login": "2025-04-07 12:22:29",
+    "preferences": {
+        "theme": "light",
+        "font_size": "medium"
+    },
+    "chat_sessions": [
+        {
+            "id": "chat_1743999751",
+            "created_at": "2025-04-07 12:22:31",
+            "last_updated": "2025-04-07 12:22:31",
+            "title": "聊天 1"
+        },
+        {
+            "id": "chat_1744079671",
+            "created_at": "2025-04-08 10:34:31",
+            "last_updated": "2025-04-08 10:34:41",
+            "title": "聊天 2"
+        },
+        {
+            "id": "chat_1744079692",
+            "created_at": "2025-04-08 10:34:52",
+            "last_updated": "2025-04-08 10:34:57",
+            "title": "聊天 3"
+        }
+    ]
+}
